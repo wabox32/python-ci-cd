@@ -30,3 +30,6 @@ jobs:
     # 4. Ejecutar pruebas
     - name: Run tests with pytest
       run: pytest -v
+
+    - name: Ya termine
+      run: echo "ya termine jaiber"
