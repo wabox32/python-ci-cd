@@ -1,0 +1,24 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Entornos virtuales ---
+venv/
+.env
+.venv/
+env/
+ENV/
+
+# --- Dependencias ---
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Pytest ---
+.pytest_cache/
+.coverage
+htmlc
